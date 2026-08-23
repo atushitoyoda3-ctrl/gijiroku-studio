@@ -1,0 +1,18 @@
+{
+  "name": "議事録スタジオ",
+  "short_name": "議事録スタジオ",
+  "description": "スマホで録音しながら文字起こしし、要約を会議資料としてWord/PDFで書き出せるツール",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "./",
+  "display": "standalone",
+  "background_color": "#EFF3F0",
+  "theme_color": "#C23B2A",
+  "orientation": "portrait",
+  "lang": "ja",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
